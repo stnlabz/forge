@@ -13,7 +13,7 @@ The forge represents the development cycle, from the Academy to the store via th
    - if approved, **student** becomes a **Certified** ChAoS Module Developer.
    
  ## The Certifications
- Students can be certtified in the following:
+ Students can be certified in the following:
   - Module Developer
   - Plugin Developer
   - Theme Developer
